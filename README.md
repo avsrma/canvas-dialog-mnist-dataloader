@@ -1,5 +1,5 @@
 # Canvas Dialog MNIST Dataset
-MNIST Digits with attributes like digit color, background color and style are placed at random positions on a 128x128 canvas. The digits are allowed overlap to a certain extend and can also be resized. Below is an example of an image provided by the dataloader. 
+MNIST Digits with attributes like digit color, background color and style are placed at random positions on a 128x128 canvas. The digits are allowed overlap upto 40% and are randomly resized between 15 to 28. Aspect ratio is not maintained. Below is an example of an image provided by the dataloader. 
 
 ![](resized.png)
 
