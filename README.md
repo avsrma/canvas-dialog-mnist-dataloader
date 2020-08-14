@@ -1,7 +1,7 @@
 # Canvas Dialog MNIST Dataset
 MNIST Digits with attributes like digit color, background color and style are placed at random positions on a 128x128 canvas. The digits are allowed overlap to a certain extend and can also be resized. Below is an example of an image provided by the dataloader. 
 
-![](canvas.png)
+![](resized.png)
 
 The dataloader class provides images, labels, bounding boxes, digit-color, background color, and digit-style. 
 
